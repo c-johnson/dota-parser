@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"os"
-	"strings"
 
 	"github.com/dotabuff/yasha"
   "github.com/davecgh/go-spew/spew"
